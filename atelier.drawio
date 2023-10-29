@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-29T19:48:03.499Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="Bpq11MgbG_bcWrrhK-vX" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-29T19:54:08.213Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="EtCn1_7PPbKE491pRcKp" version="22.0.8" type="github">
   <diagram name="Page-1" id="38b20595-45e3-9b7f-d5ca-b57f44c5b66d">
-    <mxGraphModel dx="1420" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2840" dy="1684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -96,6 +96,9 @@
         </mxCell>
         <mxCell id="0tehll-YJkzTE9BKKPZJ-28" value="105" style="shape=dimension;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=bottom;spacingBottom=3;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="461" y="1090.63" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eFpMKWNqUsYMdCkD_3AN-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="101" y="214" width="530" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
